@@ -1,67 +1,49 @@
 <h1 align="center">Hi 👋, I'm Tri Nguyen</h1>
 
 <h3 align="center">
-Full-Stack Developer with a passion for Mathematics and building thoughtful digital experiences.
+Full-Stack Developer • Mathematics Enthusiast 
 </h3>
 
 <p align="center">
-I enjoy solving complex problems, translating mathematical ideas into practical applications, and continuously exploring new technologies.
-<br/>
-Outside of code, you'll likely find me at the gym, experimenting in the kitchen, or driving around the city with my dogs.
+You'll likely find me at the gym, in the kitchen, or driving around the city with my dogs.
 </p>
 
 ---
 
 ### 👨‍💻 Projects  
-Explore my work here:  
 🔗 https://www.tringuyen.work/Projects  
 
 ### 📝 Writing  
-I regularly write about applied mathematics and technical insights:  
 🔗 https://www.tringuyen.work/Blogs  
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
+### 🤝 Connect
+<p>
 <a href="https://linkedin.com/in/tri-nguyen52" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tri-nguyen52" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
 </a>
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
 <p align="left">
-
-<!-- Core -->
-<strong>Core:</strong><br/>
-JavaScript · TypeScript · Python · Go · SQL · HTML · CSS
-
-<br/><br/>
-
-<strong>Frameworks & Libraries:</strong><br/>
-React · Next.js · Vue · Node.js · Django · Flask · React Native · Redux · GraphQL · TailwindCSS
-
-<br/><br/>
-
-<strong>Data & ML:</strong><br/>
-Pandas · Scikit-learn · PyTorch · TensorFlow · OpenCV · MATLAB · Seaborn · D3.js · Chart.js
-
-<br/><br/>
-
-<strong>Cloud & DevOps:</strong><br/>
-AWS · Docker · Nginx · Linux · Firebase · Redis · ElasticSearch
-
-<br/><br/>
-
-<strong>Databases:</strong><br/>
-PostgreSQL · MySQL · MongoDB · SQLite
-
-<br/><br/>
-
-<strong>Tools & Design:</strong><br/>
-Git · Postman · Figma · Framer · Zapier · Arduino · Android
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="34"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="34"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="34"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="34"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34"/>
 </p>
