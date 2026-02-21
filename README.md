@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tri Nguyen</h1>
 
 <h3 align="center">
-Full-Stack Developer • Mathematics Enthusiast • Problem Solver
+Full-Stack Developer • Mathematics Enthusiast
 </h3>
 
 <p align="center">
