@@ -10,20 +10,11 @@ You'll likely find me at the gym, in the kitchen, or driving around the city wit
 
 ---
 
-### 👨‍💻 Projects  
-🔗 https://www.tringuyen.work/Projects  
-
-### 📝 Writing  
-🔗 https://www.tringuyen.work/Blogs  
-
----
-
-### 🤝 Connect
-<p>
-<a href="https://linkedin.com/in/tri-nguyen52" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<p align="center">
+<a href="https://www.tringuyen.work/Projects"><strong>Projects</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.tringuyen.work/Blogs"><strong>Blog</strong></a>
+</p> 
 
 ---
 
@@ -39,7 +30,6 @@ You'll likely find me at the gym, in the kitchen, or driving around the city wit
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
